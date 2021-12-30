@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517017644 source:c:\users\user\documents\test\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
+1517016973 source:c:\users\user\documents\test\tugas2.cpp
+
